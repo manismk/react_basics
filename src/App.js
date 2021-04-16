@@ -3,7 +3,7 @@ import "./styles.css";
 
 //var userName=prompt("Please enter your name");
 //var userName = "All";
-var color = "blue";
+var color = "red";
 var count = 0;
 var shopList = ["milk", "egg", "bread", "oil", "panner", "chicken", "meat"];
 
